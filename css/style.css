@@ -1,0 +1,15 @@
+table {
+    border: outset 2px rgb(66, 66, 66);
+}
+
+th {
+    border: solid 1px;
+}
+
+td {
+    border: solid 1px;
+}
+
+.Esp {
+    font-weight: bold;
+}
